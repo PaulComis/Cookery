@@ -1,8 +1,10 @@
 # Energy Bars
-From the GCN show (on youtobe)[https://bit.ly/2Vtobsu]
+From the GCN show (on youtube)[https://bit.ly/2Vtobsu]
 
 Preparation Time : 10 mins
+
 Cooking Time : 10 mins
+
 Makes : 16 servings (bars)
 
 
