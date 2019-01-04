@@ -24,19 +24,19 @@ Makes : 16 servings (bars)
 
 
 
-# Method #1
+# Part 1/3 : Make the sauce
 - Heat the oil over a low heat
 - Add the sugar, syrub, peanut butter and vanilla extract
 - Stir until melted and mixed together
 
 
-# Method #2
+# Part 2/3 : Add the nuts, berries and oats
 - then add the seeds, nuts, sultanas and dates and stir in
 - gradually add the oats continually stirring, until the oats are coated
 
 
 
-# Method #3
+# Part 3/3 : Bake and cut
 - transfer the mixture to a lined baking tin
 - firmly and evenly press the mixture down, so it is even
 - place in the oven at 180 degress for 10-15 minutes
