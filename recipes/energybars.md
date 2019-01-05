@@ -5,7 +5,7 @@ Preparation Time : 10 mins
 
 Cooking Time : 10 mins
 
-Makes : 16 servings (bars)
+Serves : 16 bars
 
 
 
