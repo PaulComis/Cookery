@@ -1,4 +1,4 @@
-This secions contains a selection of my favourite recipes
+This section contains a selection of my favourite recipes
 
 For those who take an interest, this site is written in Markdown, and deployed via GitHub Pages. The individual recipes are written in Markdown and presented using Reveal.js
 
