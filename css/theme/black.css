@@ -56,7 +56,9 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.3em; }
+  font-size: 2.3em;
+  text-align: left;
+  text-transform: capitalize; }
 
 .reveal h2 {
   font-size: 1.6em; }
