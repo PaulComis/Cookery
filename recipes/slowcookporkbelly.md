@@ -1,14 +1,11 @@
 # Slow Cooked Pork Belly
 a-la Trev
-
-Preparation Time : 10 mins
-
-Cooking Time : 4 hours
-
-Serves: 4
+ 
+- Preparation Time : 10 mins
+- Cooking Time : 4 hours
+- Serves: 4
 
 A Party favourite...full of flavour and melts in the mouth
-
 
 
 
