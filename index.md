@@ -14,3 +14,4 @@ For those who take an interest, this site is written in Markdown, and deployed v
 # Random
 - [Oat Energy Bars](energybars.html)
 - [Babaganoush]()
+- [Ovaltini Hard Shake](ovaltini.html)
