@@ -4,7 +4,7 @@ For those who take an interest, this site is written in Markdown, and deployed v
 
 # Mains
 - [Chicken Satay]()
-- [Chicken Makhani - Butter Chicken](chickenmakhani.md)
+- [Chicken Makhani - Butter Chicken](recipes/chickenmakhani.md)
 - [Chili](chili.html)
 - [Falafel]()
 - [Kofte Meatballs in Masala Sauce]()
